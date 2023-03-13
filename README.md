@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pratham_jadhav_" target="blank"><img src="https://img.shields.io/twitter/follow/@pratham_jadhav_?logo=twitter&style=for-the-badge" alt="@pratham_jadhav_" /></a> </p>
 
-- 🔭 I’m currently working on **Razorpay Clone**
+- 🔭 I’m currently working on **Razorpay Clone Project**
 
 - 🌱 I’m currently learning **MERN Stack, React js and C++**
 
