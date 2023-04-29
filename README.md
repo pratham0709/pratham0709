@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pratham0709.github.io/Portfolio-Pratham/](https://pratham0709.github.io/Portfolio-Pratham/)
 
-- 💬 Ask me about **Html, Css, Tailwind Css , C++**
+- 💬 Ask me about **HTML, CSS, TAILWINDCSS , C++**
 
 - 📫 How to reach me **prathameshj792@gmail.com**
 
