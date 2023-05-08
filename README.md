@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Discord Clone Project**
 
-- 🌱 I’m currently learning **MERN Stack, React js and DSA **
+- 🌱 I’m currently learning **MERN Stack, React js and DSA**
 
 - 👨‍💻 All of my projects are available at [https://pratham0709.github.io/Portfolio-Pratham/](https://pratham0709.github.io/Portfolio-Pratham/)
 
