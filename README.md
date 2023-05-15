@@ -6,7 +6,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@pratham_jadhav_" target="blank"><img src="https://img.shields.io/twitter/follow/@pratham_jadhav_?logo=twitter&style=for-the-badge" alt="@pratham_jadhav_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pratham_jadhav_" target="blank"><img src="https://img.shields.io/twitter/follow/@pratham_jadhav_?logo=twitter&style=for-the-badge" alt="@pratham_jadhav_" /></a></p>
 
 - 🔭 I’m currently working on **Employee Management System**
 
