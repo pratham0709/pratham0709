@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/></p>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prathamesh-jadhav07/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prathamesh-jadhav07/)]
 <!-- [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
 <br>
 [![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
