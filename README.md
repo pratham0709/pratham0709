@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, React js and DSA**
 
-- 👨‍💻 All of my projects are available at [https://pratham0709.github.io/Portfolio-Pratham/](https://pratham0709.github.io/Portfolio-Pratham/)
+- 👨‍💻 All of my projects are available at [https://portfolio-pratham0709.vercel.app/](https://portfolio-pratham0709.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, TAILWINDCSS, C++**
 
