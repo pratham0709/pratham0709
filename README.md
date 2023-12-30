@@ -1,5 +1,7 @@
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/pratham0709?label=Follow%20Me&style=social)](https://github.com/pratham0709)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/></p>
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prathamesh-jadhav07/)
