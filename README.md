@@ -2,14 +2,14 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/pratham0709?label=Follow%20Me&style=social)](https://github.com/pratham0709)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/></p>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhavqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)] (https://www.linkedin.com/in/prathamesh-jadhav07/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prathamesh-jadhav07/)
 <br>
 <!-- <!-- [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com) -->
 <br>
-[![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
+<!-- [![Codepen](https://img.shields.io/badge/Codepen-Ahmad%20Sawalqeh-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/AhmadSawalqeh)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-Ahmad%20Sawalqeh-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/Ahmad-Sawalqeh)
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh) -->
+[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)  -->
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Prathamesh Jadhav</strong></samp></h2>
