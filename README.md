@@ -5,7 +5,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/></p>
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Prathamesh Jadhav</strong></samp></h2>
-<h3 align='center'><strong><a href="https://portfolio-prathamesh.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
