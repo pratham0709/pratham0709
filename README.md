@@ -84,7 +84,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham0709&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratham0709&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pratham0709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/atharv0777)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
