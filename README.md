@@ -78,13 +78,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratham0709&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratham0709&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham0709&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratham0709&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/atharv0777)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
@@ -92,5 +85,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratham0709&limit=5&theme=dark&combine_all_yearly_contributions=true)
