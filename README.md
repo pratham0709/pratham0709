@@ -12,7 +12,7 @@
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
 
-💻 **Languages and Tools:** 🛠️<br>
+💻 **Languages and Tools:** 🛠️ <br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
