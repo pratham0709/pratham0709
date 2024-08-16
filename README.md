@@ -1,7 +1,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/pratham0709?label=Follow%20Me&style=social)](https://github.com/pratham0709)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathamesh%20Jadhav-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prathamesh-jadhav07/)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pratham0709&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0709"/></p>
 <br>
 <h2 align='center'><samp><strong>Hi there 👋, I am Prathamesh Jadhav</strong></samp></h2>
 <h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>
